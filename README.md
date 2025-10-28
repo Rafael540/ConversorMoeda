@@ -52,7 +52,7 @@ O projeto está preparado para evoluir com:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/currency-converter.git
+git clone https://github.com/seu-usuario/conversordemoedas.git
 
 # Compile e execute
 javac Program.java
